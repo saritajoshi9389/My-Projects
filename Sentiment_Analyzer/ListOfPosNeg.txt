@@ -1,0 +1,23 @@
+List 20 Terms with highest(log) ratio of Positive to Negative Weight 
+
+      WORD		           LOG RATIO
+     shrek		       3.59308743462
+   gattaca		       3.09906892917
+     guido		        2.9495371952
+    ordell		       2.91674737238
+     leila		        2.8828458207
+ sweetback		       2.81138685672
+     taran		       2.77364652873
+     homer		       2.77364652873
+   mallory		       2.69360382106
+    donkey		       2.60659244407
+   argento		       2.56007242844
+  rounders		       2.56007242844
+  truman's		       2.51128226427
+  fei-hong		       2.45998896988
+     giles		       2.45998896988
+  farquaad		       2.40592174861
+    carver		       2.34876333477
+   lumumba		       2.34876333477
+   flynt's		       2.34876333477
+     sethe		       2.34876333477

@@ -1,0 +1,23 @@
+List 20 Terms with highest(log) ratio of Negative to Positive Weight 
+
+      WORD		           LOG RATIO
+      nbsp		       3.73595995101
+    seagal		       3.07671432213
+     jolie		       3.07671432213
+   brenner		       2.76655939382
+      1900		       2.76655939382
+   pokemon		       2.67124921402
+bruckheimer		       2.56588869836
+ silverman		       2.56588869836
+     tango		       2.50873028452
+  psychlos		       2.50873028452
+   psychlo		       2.50873028452
+babysitter		       2.50873028452
+ supergirl		       2.50873028452
+   memphis		       2.50873028452
+ atrocious		       2.50873028452
+ farrellys		       2.44810566271
+     bilko		       2.44810566271
+      tomb		       2.44810566271
+  mandingo		       2.44810566271
+    raider		       2.44810566271

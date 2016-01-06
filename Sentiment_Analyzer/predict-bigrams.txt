@@ -1,0 +1,411 @@
+List of Files in Test Directory with Pos and Neg Score based on Model File
+
+Total Test Files ->200
+
+FILENAME		                POS_SCORE		   NEG_SCORE
+textcat/test\10066.txt		      -12990.8811633		-13058.6546226
+textcat/test\10073.txt		      -15892.8749437		-15903.1599616
+textcat/test\10171.txt		      -12815.0247086		-12726.5474367
+textcat/test\10185.txt		      -3443.23508979		-3420.85967092
+textcat/test\10220.txt		      -3326.10989844		-3333.04569388
+textcat/test\10246.txt		      -6769.45201728		-6795.18179867
+textcat/test\10267.txt		      -2802.09494097		-2818.21978662
+textcat/test\10331.txt		      -9116.89251203		-9171.68272607
+textcat/test\10583.txt		      -5438.69307566		-5462.34084103
+textcat/test\10601.txt		      -7002.41912869		-6985.65234707
+textcat/test\10681.txt		      -8907.54460765		-8965.78033752
+textcat/test\10706.txt		      -6103.03660208		-6046.27471301
+textcat/test\10718.txt		      -7062.62949605		-7063.43003603
+textcat/test\10724.txt		      -5366.93060791		-5348.02452552
+textcat/test\10800.txt		      -5709.31695128		-5656.34539203
+textcat/test\10874.txt		      -7278.26193138		-7289.11234758
+textcat/test\10926.txt		      -6069.12728073		-6096.32558435
+textcat/test\10953.txt		      -4940.67924615		-4960.37752224
+textcat/test\10981.txt		      -10697.1527348		-10750.0104875
+textcat/test\11017.txt		       -2824.2243101		-2816.51284843
+textcat/test\11051.txt		      -4780.66788966		-4837.41762713
+textcat/test\11247.txt		      -5172.71900711		-5172.21567152
+textcat/test\11316.txt		      -3340.48843357		-3318.52627977
+textcat/test\11471.txt		      -9235.95270459		-9221.25074146
+textcat/test\11491.txt		      -3955.01849452		-3967.73237545
+textcat/test\11591.txt		      -11061.4006981		-11111.4900331
+textcat/test\11592.txt		      -3777.03230758		-3808.06305804
+textcat/test\11609.txt		      -8799.06964473		-8830.8529951
+textcat/test\11790.txt		       -9100.4796531		-9023.41860308
+textcat/test\11816.txt		      -8872.54814977		-8846.34786185
+textcat/test\11851.txt		      -7119.58483067		-7043.08865325
+textcat/test\11920.txt		      -14338.2158663		-14318.9574887
+textcat/test\11934.txt		      -3659.54048935		-3659.06467112
+textcat/test\11951.txt		      -8470.43966713		-8367.58184821
+textcat/test\11962.txt		      -14749.6562544		-14761.5415028
+textcat/test\12160.txt		      -10004.0801027		-10052.2206685
+textcat/test\12162.txt		      -7812.09212957		-7874.33105525
+textcat/test\12256.txt		      -12536.1981068		-12606.8502353
+textcat/test\12270.txt		      -5898.74046408		-5881.84743579
+textcat/test\12332.txt		       -8430.4990797		-8370.27111661
+textcat/test\12350.txt		      -5921.64106115		-5927.87554161
+textcat/test\12443.txt		       -3353.3269311		-3328.3120876
+textcat/test\12447.txt		       -11571.233222		-11534.2551966
+textcat/test\12547.txt		      -12451.1253055		-12335.8760526
+textcat/test\12747.txt		        -5248.702725		-5256.23940343
+textcat/test\12767.txt		      -6379.22616898		-6379.50891817
+textcat/test\12806.txt		      -10075.6912609		-10027.649313
+textcat/test\13012.txt		      -5874.53752884		-5835.90598791
+textcat/test\13020.txt		      -6158.56509908		-6121.64973482
+textcat/test\13106.txt		      -10737.1333498		-10771.650713
+textcat/test\13217.txt		      -7523.74063608		-7465.75717266
+textcat/test\13229.txt		      -8279.69981647		-8211.89074309
+textcat/test\13250.txt		      -6271.68170695		-6282.07646418
+textcat/test\13401.txt		      -6603.00209413		-6559.98562459
+textcat/test\13475.txt		        -11157.55333		-11198.758624
+textcat/test\13478.txt		      -13893.2114275		-13789.1361737
+textcat/test\13521.txt		      -8449.08699857		-8461.40348828
+textcat/test\13527.txt		      -12172.8643326		-12426.0536358
+textcat/test\13988.txt		      -10638.0270599		-10583.5447036
+textcat/test\14006.txt		      -5618.39301779		-5580.51567783
+textcat/test\14111.txt		      -6335.88164193		-6402.22999974
+textcat/test\14611.txt		      -4264.55674101		-4280.36232488
+textcat/test\14636.txt		       -5995.1040994		-5979.19056868
+textcat/test\14760.txt		      -2895.01966841		-2892.65096504
+textcat/test\14854.txt		      -5169.88736578		-5118.21007831
+textcat/test\14949.txt		      -5220.75672609		-5189.3669227
+textcat/test\14989.txt		      -8300.85488533		-8321.46901775
+textcat/test\15042.txt		      -7349.71190967		-7324.08641218
+textcat/test\15092.txt		      -6303.14631218		-6265.41150658
+textcat/test\15467.txt		       -6947.1158719		-7061.34339299
+textcat/test\15691.txt		       -5984.0147037		-5935.02041507
+textcat/test\15824.txt		      -8663.11980917		-8686.98134828
+textcat/test\15954.txt		      -16554.2783333		-16607.6036224
+textcat/test\16009.txt		      -16942.8859371		-16949.3465007
+textcat/test\16218.txt		      -5813.94287651		-5747.03458494
+textcat/test\16380.txt		      -6056.26141595		-6093.30159099
+textcat/test\16679.txt		       -9158.7621817		-9131.15259594
+textcat/test\16908.txt		      -10471.8873908		-10512.2058195
+textcat/test\17034.txt		      -4944.76737364		-4875.95596408
+textcat/test\17059.txt		      -5563.10711903		-5622.8804588
+textcat/test\17082.txt		      -6554.26813493		-6567.72997644
+textcat/test\17297.txt		      -4866.22423426		-4810.57539003
+textcat/test\17473.txt		      -5997.80464291		-5936.88883524
+textcat/test\17563.txt		      -3494.98803548		-3523.82403874
+textcat/test\17705.txt		      -7322.39305892		-7331.20337471
+textcat/test\17779.txt		      -9963.07730979		-9950.34874986
+textcat/test\17822.txt		      -7981.33338585		-8024.61903478
+textcat/test\18155.txt		       -5402.7863327		-5366.55423046
+textcat/test\1841.txt		      -2997.59984207		-2980.21621198
+textcat/test\18450.txt		      -7575.38274327		-7616.73669027
+textcat/test\18471.txt		      -15069.3293299		-15073.3388111
+textcat/test\18509.txt		      -7239.10070337		-7202.55371888
+textcat/test\18628.txt		      -5146.20626018		-5157.22722618
+textcat/test\18645.txt		      -6903.39361775		-6899.20374279
+textcat/test\18658.txt		      -18446.3153409		-18655.8703065
+textcat/test\18740.txt		      -9420.87425315		-9491.57107234
+textcat/test\18783.txt		       -4277.1007304		-4263.16854978
+textcat/test\18921.txt		      -9659.16780607		-9655.87268682
+textcat/test\18935.txt		       -1906.2319617		-1880.99943775
+textcat/test\18981.txt		      -3569.22395108		-3574.1785051
+textcat/test\19027.txt		      -5453.33616542		-5468.5499484
+textcat/test\19532.txt		      -9291.30957706		-9240.81672303
+textcat/test\19932.txt		      -7854.71836147		-7856.73536688
+textcat/test\19973.txt		      -7620.16702202		-7608.4717648
+textcat/test\20084.txt		      -7503.77312495		-7427.76363441
+textcat/test\20112.txt		      -9723.95697831		-9724.68256716
+textcat/test\20168.txt		      -8184.78287925		-8119.55624724
+textcat/test\20260.txt		      -6636.14023807		-6610.66487717
+textcat/test\2029.txt		      -6504.56185677		-6462.98810929
+textcat/test\20426.txt		      -10070.3577184		-10032.2673432
+textcat/test\20488.txt		       -10945.631348		-10997.3917477
+textcat/test\20929.txt		      -8523.59247535		-8521.0645655
+textcat/test\21103.txt		      -6445.04535675		-6511.47661084
+textcat/test\21565.txt		      -9244.70706802		-9164.56870652
+textcat/test\21695.txt		      -9317.62285935		-9202.07004101
+textcat/test\21821.txt		      -7940.72851609		-8005.0794441
+textcat/test\21930.txt		      -6620.59991148		-6551.42619047
+textcat/test\22192.txt		      -7535.05609432		-7545.54343415
+textcat/test\22209.txt		      -4825.10233337		-4765.77311569
+textcat/test\22488.txt		       -4375.9848237		-4392.6072444
+textcat/test\22928.txt		      -8968.96434853		-8979.31086274
+textcat/test\22941.txt		      -5919.24061486		-5940.24017756
+textcat/test\23113.txt		      -15030.3001654		-14896.0822257
+textcat/test\23547.txt		      -5496.98751528		-5441.21585898
+textcat/test\23776.txt		      -9033.96283872		-9119.40784237
+textcat/test\23841.txt		      -16973.5197075		-17017.6743545
+textcat/test\24218.txt		      -7576.65919963		-7606.09770669
+textcat/test\24219.txt		      -5769.64282731		-5750.27761352
+textcat/test\24303.txt		      -4975.03632952		-4956.25473831
+textcat/test\24353.txt		      -4852.03574845		-4847.2722112
+textcat/test\24606.txt		      -4488.07465272		-4525.51020064
+textcat/test\24953.txt		      -15451.5378768		-15394.8276872
+textcat/test\24977.txt		      -9133.97217496		-9065.60785853
+textcat/test\25001.txt		      -10704.3190741		-10707.7279766
+textcat/test\25240.txt		      -6990.82316926		-6948.30895444
+textcat/test\25413.txt		       -9642.8331231		-9559.7945775
+textcat/test\25663.txt		      -2340.13686082		-2332.71878472
+textcat/test\25870.txt		      -6393.31095541		-6324.36208207
+textcat/test\26071.txt		      -6431.87732177		-6440.9345378
+textcat/test\26154.txt		      -4408.70201108		-4373.74049246
+textcat/test\26375.txt		      -8103.10224702		-8066.98428226
+textcat/test\26417.txt		      -6229.38997105		-6233.76904231
+textcat/test\26688.txt		       -7221.1791563		-7177.14286451
+textcat/test\26837.txt		      -8104.16949854		-8133.590724
+textcat/test\2693.txt		      -5848.22212513		-5833.25844689
+textcat/test\27080.txt		      -6605.60223494		-6595.05832146
+textcat/test\2856.txt		      -5156.18880474		-5126.12197771
+textcat/test\28671.txt		      -7851.31313039		-7822.75843369
+textcat/test\28742.txt		      -3632.13217446		-3619.52636327
+textcat/test\28832.txt		      -7104.08552878		-7133.00323695
+textcat/test\28877.txt		      -6625.54713032		-6634.06298337
+textcat/test\28965.txt		      -7072.93997191		-7062.92880104
+textcat/test\29007.txt		      -9876.50157418		-9890.28480973
+textcat/test\29114.txt		       -8949.2059762		-9005.55335832
+textcat/test\29127.txt		      -4914.05856204		-4917.15473611
+textcat/test\29252.txt		      -9196.49967804		-9174.83876345
+textcat/test\29397.txt		      -6195.95576753		-6172.03549055
+textcat/test\29423.txt		       -3558.3040581		-3528.38876884
+textcat/test\29484.txt		      -7503.67882993		-7430.16790899
+textcat/test\29540.txt		      -6482.35174989		-6523.54872146
+textcat/test\29565.txt		       -3168.3680445		-3158.30013591
+textcat/test\29622.txt		       -6180.5620945		-6186.22396546
+textcat/test\29715.txt		      -7126.98583299		-7128.62713534
+textcat/test\29737.txt		      -6988.11595365		-7026.59222599
+textcat/test\3193.txt		      -7298.20705919		-7275.29686306
+textcat/test\3541.txt		      -7364.78148039		-7393.43877657
+textcat/test\4776.txt		      -5029.78113072		-5001.82679837
+textcat/test\4938.txt		      -4614.82677291		-4627.34938035
+textcat/test\5046.txt		      -12038.9088467		-12102.4672747
+textcat/test\5152.txt		      -4654.97212768		-4638.49276631
+textcat/test\5562.txt		      -11858.3136294		-11782.6055976
+textcat/test\5578.txt		       -3711.1880947		-3711.19374042
+textcat/test\5626.txt		       -6718.7833913		-6702.74805303
+textcat/test\5674.txt		      -5606.36018446		-5633.76767882
+textcat/test\5682.txt		      -5900.42300296		-5910.19517389
+textcat/test\5788.txt		      -12812.2263995		-12839.1540033
+textcat/test\5794.txt		      -6371.13838624		-6334.41290471
+textcat/test\5964.txt		        -7359.913943		-7326.18141322
+textcat/test\6021.txt		      -10030.5883319		-10007.7792665
+textcat/test\6359.txt		      -7320.83659818		-7348.03815297
+textcat/test\6836.txt		      -9663.98590648		-9720.51763631
+textcat/test\6895.txt		      -8412.17682161		-8394.33686962
+textcat/test\6965.txt		      -2150.56297187		-2152.43734337
+textcat/test\7078.txt		      -5803.55417351		-5742.14607103
+textcat/test\7208.txt		      -8076.78007263		-8077.95062173
+textcat/test\7394.txt		      -8005.49338768		-7930.42299371
+textcat/test\8737.txt		      -5383.63674009		-5395.13669644
+textcat/test\8841.txt		      -5395.11495324		-5379.95069681
+textcat/test\8969.txt		      -8253.65322616		-8281.55813257
+textcat/test\9059.txt		      -4651.50203373		-4627.77817602
+textcat/test\9168.txt		      -12254.7786352		-12280.3088392
+textcat/test\9342.txt		      -6043.42314806		-6018.8030822
+textcat/test\9459.txt		      -5018.77526748		-4975.38362368
+textcat/test\9478.txt		      -12132.2830882		-12040.58133
+textcat/test\9803.txt		      -5802.01195795		-5832.69027892
+textcat/test\9811.txt		      -6396.49479626		-6394.43875231
+textcat/test\9813.txt		      -6473.15798417		-6418.60607443
+textcat/test\9816.txt		      -5333.06701794		-5306.07202359
+textcat/test\9960.txt		      -6379.89095289		-6354.84040307
+textcat/test\9973.txt		      -4462.78724095		-4459.08840683
+Below is the segregated list of Positive and Negative files from Test Directory
+
+Positive Files with Count ->92
+textcat/test\10066.txt
+textcat/test\10073.txt
+textcat/test\10220.txt
+textcat/test\10246.txt
+textcat/test\10267.txt
+textcat/test\10331.txt
+textcat/test\10583.txt
+textcat/test\10681.txt
+textcat/test\10718.txt
+textcat/test\10874.txt
+textcat/test\10926.txt
+textcat/test\10953.txt
+textcat/test\10981.txt
+textcat/test\11051.txt
+textcat/test\11491.txt
+textcat/test\11591.txt
+textcat/test\11592.txt
+textcat/test\11609.txt
+textcat/test\11962.txt
+textcat/test\12160.txt
+textcat/test\12162.txt
+textcat/test\12256.txt
+textcat/test\12350.txt
+textcat/test\12747.txt
+textcat/test\12767.txt
+textcat/test\13106.txt
+textcat/test\13250.txt
+textcat/test\13475.txt
+textcat/test\13521.txt
+textcat/test\13527.txt
+textcat/test\14111.txt
+textcat/test\14611.txt
+textcat/test\14989.txt
+textcat/test\15467.txt
+textcat/test\15824.txt
+textcat/test\15954.txt
+textcat/test\16009.txt
+textcat/test\16380.txt
+textcat/test\16908.txt
+textcat/test\17059.txt
+textcat/test\17082.txt
+textcat/test\17563.txt
+textcat/test\17705.txt
+textcat/test\17822.txt
+textcat/test\18450.txt
+textcat/test\18471.txt
+textcat/test\18628.txt
+textcat/test\18658.txt
+textcat/test\18740.txt
+textcat/test\18981.txt
+textcat/test\19027.txt
+textcat/test\19932.txt
+textcat/test\20112.txt
+textcat/test\20488.txt
+textcat/test\21103.txt
+textcat/test\21821.txt
+textcat/test\22192.txt
+textcat/test\22488.txt
+textcat/test\22928.txt
+textcat/test\22941.txt
+textcat/test\23776.txt
+textcat/test\23841.txt
+textcat/test\24218.txt
+textcat/test\24606.txt
+textcat/test\25001.txt
+textcat/test\26071.txt
+textcat/test\26417.txt
+textcat/test\26837.txt
+textcat/test\28832.txt
+textcat/test\28877.txt
+textcat/test\29007.txt
+textcat/test\29114.txt
+textcat/test\29127.txt
+textcat/test\29540.txt
+textcat/test\29622.txt
+textcat/test\29715.txt
+textcat/test\29737.txt
+textcat/test\3541.txt
+textcat/test\4938.txt
+textcat/test\5046.txt
+textcat/test\5578.txt
+textcat/test\5674.txt
+textcat/test\5682.txt
+textcat/test\5788.txt
+textcat/test\6359.txt
+textcat/test\6836.txt
+textcat/test\6965.txt
+textcat/test\7208.txt
+textcat/test\8737.txt
+textcat/test\8969.txt
+textcat/test\9168.txt
+textcat/test\9803.txt
+
+
+Negative Files with Count ->108
+textcat/test\10171.txt
+textcat/test\10185.txt
+textcat/test\10601.txt
+textcat/test\10706.txt
+textcat/test\10724.txt
+textcat/test\10800.txt
+textcat/test\11017.txt
+textcat/test\11247.txt
+textcat/test\11316.txt
+textcat/test\11471.txt
+textcat/test\11790.txt
+textcat/test\11816.txt
+textcat/test\11851.txt
+textcat/test\11920.txt
+textcat/test\11934.txt
+textcat/test\11951.txt
+textcat/test\12270.txt
+textcat/test\12332.txt
+textcat/test\12443.txt
+textcat/test\12447.txt
+textcat/test\12547.txt
+textcat/test\12806.txt
+textcat/test\13012.txt
+textcat/test\13020.txt
+textcat/test\13217.txt
+textcat/test\13229.txt
+textcat/test\13401.txt
+textcat/test\13478.txt
+textcat/test\13988.txt
+textcat/test\14006.txt
+textcat/test\14636.txt
+textcat/test\14760.txt
+textcat/test\14854.txt
+textcat/test\14949.txt
+textcat/test\15042.txt
+textcat/test\15092.txt
+textcat/test\15691.txt
+textcat/test\16218.txt
+textcat/test\16679.txt
+textcat/test\17034.txt
+textcat/test\17297.txt
+textcat/test\17473.txt
+textcat/test\17779.txt
+textcat/test\18155.txt
+textcat/test\1841.txt
+textcat/test\18509.txt
+textcat/test\18645.txt
+textcat/test\18783.txt
+textcat/test\18921.txt
+textcat/test\18935.txt
+textcat/test\19532.txt
+textcat/test\19973.txt
+textcat/test\20084.txt
+textcat/test\20168.txt
+textcat/test\20260.txt
+textcat/test\2029.txt
+textcat/test\20426.txt
+textcat/test\20929.txt
+textcat/test\21565.txt
+textcat/test\21695.txt
+textcat/test\21930.txt
+textcat/test\22209.txt
+textcat/test\23113.txt
+textcat/test\23547.txt
+textcat/test\24219.txt
+textcat/test\24303.txt
+textcat/test\24353.txt
+textcat/test\24953.txt
+textcat/test\24977.txt
+textcat/test\25240.txt
+textcat/test\25413.txt
+textcat/test\25663.txt
+textcat/test\25870.txt
+textcat/test\26154.txt
+textcat/test\26375.txt
+textcat/test\26688.txt
+textcat/test\2693.txt
+textcat/test\27080.txt
+textcat/test\2856.txt
+textcat/test\28671.txt
+textcat/test\28742.txt
+textcat/test\28965.txt
+textcat/test\29252.txt
+textcat/test\29397.txt
+textcat/test\29423.txt
+textcat/test\29484.txt
+textcat/test\29565.txt
+textcat/test\3193.txt
+textcat/test\4776.txt
+textcat/test\5152.txt
+textcat/test\5562.txt
+textcat/test\5626.txt
+textcat/test\5794.txt
+textcat/test\5964.txt
+textcat/test\6021.txt
+textcat/test\6895.txt
+textcat/test\7078.txt
+textcat/test\7394.txt
+textcat/test\8841.txt
+textcat/test\9059.txt
+textcat/test\9342.txt
+textcat/test\9459.txt
+textcat/test\9478.txt
+textcat/test\9811.txt
+textcat/test\9813.txt
+textcat/test\9816.txt
+textcat/test\9960.txt
+textcat/test\9973.txt
