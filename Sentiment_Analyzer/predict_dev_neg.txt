@@ -1,0 +1,211 @@
+DEV data neg sub directory
+
+Total Test Files ->100
+
+FILENAME		                POS_SCORE		   NEG_SCORE
+textcat/dev/neg\10042.txt		      -5636.30515348		-5578.12075979
+textcat/dev/neg\10061.txt		      -4471.07962334		-4404.52157113
+textcat/dev/neg\10698.txt		      -6853.46620244		-6819.87339988
+textcat/dev/neg\11703.txt		      -3148.68524281		-3119.44368072
+textcat/dev/neg\11763.txt		      -3189.99228632		-3180.42921844
+textcat/dev/neg\11961.txt		      -5637.16224753		-5561.02205592
+textcat/dev/neg\12182.txt		      -7839.18802342		-7797.50445239
+textcat/dev/neg\12761.txt		      -7343.57345871		-7343.75468157
+textcat/dev/neg\12799.txt		      -2011.30272594		-2015.18636379
+textcat/dev/neg\12809.txt		      -2253.00016393		-2214.99387537
+textcat/dev/neg\13390.txt		      -3650.14478497		-3618.33184431
+textcat/dev/neg\13494.txt		      -4597.57582744		-4573.30649019
+textcat/dev/neg\13660.txt		      -4776.85811058		-4735.9228579
+textcat/dev/neg\13710.txt		      -5568.01257924		-5525.0390156
+textcat/dev/neg\13773.txt		      -3357.19931029		-3355.38357001
+textcat/dev/neg\13890.txt		      -6270.91277167		-6197.67571081
+textcat/dev/neg\14311.txt		      -3535.78165855		-3505.31646052
+textcat/dev/neg\14767.txt		      -2244.22947489		-2235.22941983
+textcat/dev/neg\15230.txt		      -3787.44606617		-3774.8103883
+textcat/dev/neg\15257.txt		      -4919.74503269		-4870.43773895
+textcat/dev/neg\15520.txt		       -4203.4454999		-4186.95603163
+textcat/dev/neg\15689.txt		      -3508.90689823		-3537.78263007
+textcat/dev/neg\1576.txt		      -3637.31398178		-3582.51500915
+textcat/dev/neg\15886.txt		      -4476.78553055		-4479.87373494
+textcat/dev/neg\15924.txt		      -5351.84924518		-5361.19482656
+textcat/dev/neg\16325.txt		      -6446.54963285		-6423.00002699
+textcat/dev/neg\16585.txt		      -2841.30426522		-2821.20448327
+textcat/dev/neg\17054.txt		       -2400.7500268		-2377.876359
+textcat/dev/neg\17055.txt		      -3991.94965163		-3959.9779803
+textcat/dev/neg\17204.txt		       -5133.9482304		-5102.97823216
+textcat/dev/neg\17215.txt		      -7246.07042505		-7197.53443917
+textcat/dev/neg\17527.txt		      -820.275433583		-807.038042051
+textcat/dev/neg\17812.txt		      -2897.24317361		-2898.98890347
+textcat/dev/neg\17819.txt		      -4257.97093829		-4203.75205183
+textcat/dev/neg\18033.txt		      -2594.18220564		-2588.7270193
+textcat/dev/neg\18090.txt		      -3061.87206948		-3046.88797849
+textcat/dev/neg\18185.txt		      -4002.35264667		-3993.89147478
+textcat/dev/neg\18362.txt		      -5710.14447055		-5730.82925958
+textcat/dev/neg\18788.txt		      -5760.00699511		-5701.01476998
+textcat/dev/neg\18955.txt		      -1895.89042621		-1889.25645878
+textcat/dev/neg\19051.txt		      -3965.73171847		-3926.60187284
+textcat/dev/neg\19210.txt		      -4401.80147394		-4353.02426458
+textcat/dev/neg\19479.txt		      -2342.89298694		-2307.45898203
+textcat/dev/neg\19937.txt		      -4045.50629855		-4022.64798784
+textcat/dev/neg\20266.txt		      -5698.60231879		-5650.5585526
+textcat/dev/neg\20316.txt		      -2854.01763828		-2816.14022005
+textcat/dev/neg\20531.txt		      -5704.32614725		-5711.46812188
+textcat/dev/neg\20855.txt		      -6351.77378162		-6336.81208659
+textcat/dev/neg\21128.txt		      -4923.74159088		-4925.24807812
+textcat/dev/neg\21392.txt		      -2394.36569355		-2356.65485666
+textcat/dev/neg\21545.txt		      -4402.06979612		-4345.92559449
+textcat/dev/neg\21725.txt		      -5779.64718457		-5700.83198121
+textcat/dev/neg\21895.txt		      -4269.05214638		-4285.7287194
+textcat/dev/neg\22134.txt		      -2936.26179986		-2893.93056235
+textcat/dev/neg\22140.txt		      -4409.97523264		-4370.80453202
+textcat/dev/neg\22200.txt		      -2594.32679074		-2566.0705805
+textcat/dev/neg\22646.txt		      -6539.65316052		-6480.74730864
+textcat/dev/neg\22670.txt		       -6254.0563616		-6247.27562054
+textcat/dev/neg\22807.txt		      -4393.74743057		-4336.99577157
+textcat/dev/neg\23024.txt		      -11495.0824194		-11303.6829412
+textcat/dev/neg\23192.txt		      -8822.93093745		-8760.01945028
+textcat/dev/neg\23466.txt		      -9438.18998473		-9402.40310679
+textcat/dev/neg\24157.txt		      -7233.42757784		-7167.0116017
+textcat/dev/neg\24713.txt		      -8494.01988864		-8449.5191396
+textcat/dev/neg\24782.txt		      -5381.14831198		-5341.15029011
+textcat/dev/neg\25678.txt		      -6260.20431433		-6257.61624261
+textcat/dev/neg\25886.txt		      -5764.73614482		-5789.0705767
+textcat/dev/neg\25971.txt		       -10759.384184		-10690.3378723
+textcat/dev/neg\26335.txt		      -2479.70179973		-2472.33424767
+textcat/dev/neg\26731.txt		      -12569.4248205		-12474.4502933
+textcat/dev/neg\27232.txt		      -5218.00640054		-5221.68425756
+textcat/dev/neg\27512.txt		      -5929.01424325		-5918.25681168
+textcat/dev/neg\27621.txt		      -6042.11962289		-5915.9531315
+textcat/dev/neg\28381.txt		      -3046.50031489		-3009.78284025
+textcat/dev/neg\28796.txt		      -6867.71817405		-6839.74186854
+textcat/dev/neg\28882.txt		      -2762.65038244		-2757.85686331
+textcat/dev/neg\29119.txt		      -4440.66826526		-4416.20634451
+textcat/dev/neg\29132.txt		      -4888.08262697		-4855.46359558
+textcat/dev/neg\29283.txt		      -3910.84061508		-3907.11545314
+textcat/dev/neg\29359.txt		      -5763.97847988		-5741.65962123
+textcat/dev/neg\29447.txt		      -4518.53806998		-4501.8404696
+textcat/dev/neg\29629.txt		      -2906.70348097		-2915.12743137
+textcat/dev/neg\3087.txt		      -5219.40250822		-5201.08478294
+textcat/dev/neg\3367.txt		       -5416.1163262		-5415.97475322
+textcat/dev/neg\3515.txt		      -5590.85653812		-5577.84730982
+textcat/dev/neg\3675.txt		      -1980.16494893		-1966.74601122
+textcat/dev/neg\5012.txt		      -1732.67541259		-1713.41756194
+textcat/dev/neg\5168.txt		      -3683.57655893		-3636.71167396
+textcat/dev/neg\5306.txt		       -1949.1555897		-1937.56777346
+textcat/dev/neg\5622.txt		      -1168.29979133		-1162.91831114
+textcat/dev/neg\5702.txt		      -6063.71040491		-5992.90978658
+textcat/dev/neg\5778.txt		      -1786.77223583		-1775.66146399
+textcat/dev/neg\6035.txt		      -6440.98276375		-6443.58873793
+textcat/dev/neg\6649.txt		      -6988.11128422		-6877.99814512
+textcat/dev/neg\7912.txt		      -3671.68944153		-3620.65658782
+textcat/dev/neg\8584.txt		      -7443.68887848		-7437.4610917
+textcat/dev/neg\9335.txt		      -3773.19054998		-3743.45467863
+textcat/dev/neg\9405.txt		      -3147.94252884		-3132.98783994
+textcat/dev/neg\9567.txt		      -4782.52652954		-4737.30008601
+textcat/dev/neg\9633.txt		      -5633.36327477		-5636.79740943
+Below is the segregated list of Positive and Negative files
+
+Positive Files with Count ->15
+textcat/dev/neg\12761.txt
+textcat/dev/neg\12799.txt
+textcat/dev/neg\15689.txt
+textcat/dev/neg\15886.txt
+textcat/dev/neg\15924.txt
+textcat/dev/neg\17812.txt
+textcat/dev/neg\18362.txt
+textcat/dev/neg\20531.txt
+textcat/dev/neg\21128.txt
+textcat/dev/neg\21895.txt
+textcat/dev/neg\25886.txt
+textcat/dev/neg\27232.txt
+textcat/dev/neg\29629.txt
+textcat/dev/neg\6035.txt
+textcat/dev/neg\9633.txt
+
+
+Negative Files with Count ->85
+textcat/dev/neg\10042.txt
+textcat/dev/neg\10061.txt
+textcat/dev/neg\10698.txt
+textcat/dev/neg\11703.txt
+textcat/dev/neg\11763.txt
+textcat/dev/neg\11961.txt
+textcat/dev/neg\12182.txt
+textcat/dev/neg\12809.txt
+textcat/dev/neg\13390.txt
+textcat/dev/neg\13494.txt
+textcat/dev/neg\13660.txt
+textcat/dev/neg\13710.txt
+textcat/dev/neg\13773.txt
+textcat/dev/neg\13890.txt
+textcat/dev/neg\14311.txt
+textcat/dev/neg\14767.txt
+textcat/dev/neg\15230.txt
+textcat/dev/neg\15257.txt
+textcat/dev/neg\15520.txt
+textcat/dev/neg\1576.txt
+textcat/dev/neg\16325.txt
+textcat/dev/neg\16585.txt
+textcat/dev/neg\17054.txt
+textcat/dev/neg\17055.txt
+textcat/dev/neg\17204.txt
+textcat/dev/neg\17215.txt
+textcat/dev/neg\17527.txt
+textcat/dev/neg\17819.txt
+textcat/dev/neg\18033.txt
+textcat/dev/neg\18090.txt
+textcat/dev/neg\18185.txt
+textcat/dev/neg\18788.txt
+textcat/dev/neg\18955.txt
+textcat/dev/neg\19051.txt
+textcat/dev/neg\19210.txt
+textcat/dev/neg\19479.txt
+textcat/dev/neg\19937.txt
+textcat/dev/neg\20266.txt
+textcat/dev/neg\20316.txt
+textcat/dev/neg\20855.txt
+textcat/dev/neg\21392.txt
+textcat/dev/neg\21545.txt
+textcat/dev/neg\21725.txt
+textcat/dev/neg\22134.txt
+textcat/dev/neg\22140.txt
+textcat/dev/neg\22200.txt
+textcat/dev/neg\22646.txt
+textcat/dev/neg\22670.txt
+textcat/dev/neg\22807.txt
+textcat/dev/neg\23024.txt
+textcat/dev/neg\23192.txt
+textcat/dev/neg\23466.txt
+textcat/dev/neg\24157.txt
+textcat/dev/neg\24713.txt
+textcat/dev/neg\24782.txt
+textcat/dev/neg\25678.txt
+textcat/dev/neg\25971.txt
+textcat/dev/neg\26335.txt
+textcat/dev/neg\26731.txt
+textcat/dev/neg\27512.txt
+textcat/dev/neg\27621.txt
+textcat/dev/neg\28381.txt
+textcat/dev/neg\28796.txt
+textcat/dev/neg\28882.txt
+textcat/dev/neg\29119.txt
+textcat/dev/neg\29132.txt
+textcat/dev/neg\29283.txt
+textcat/dev/neg\29359.txt
+textcat/dev/neg\29447.txt
+textcat/dev/neg\3087.txt
+textcat/dev/neg\3367.txt
+textcat/dev/neg\3515.txt
+textcat/dev/neg\3675.txt
+textcat/dev/neg\5012.txt
+textcat/dev/neg\5168.txt
+textcat/dev/neg\5306.txt
+textcat/dev/neg\5622.txt
+textcat/dev/neg\5702.txt
+textcat/dev/neg\5778.txt
+textcat/dev/neg\6649.txt
+textcat/dev/neg\7912.txt
+textcat/dev/neg\8584.txt
+textcat/dev/neg\9335.txt
+textcat/dev/neg\9405.txt
+textcat/dev/neg\9567.txt

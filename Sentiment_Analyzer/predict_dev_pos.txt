@@ -1,0 +1,211 @@
+DEV data pos sub directory
+
+Total Test Files ->100
+
+FILENAME		                POS_SCORE		   NEG_SCORE
+textcat/dev/pos\10026.txt		       -4549.0638632		-4521.75940915
+textcat/dev/pos\10036.txt		      -3843.88850468		-3865.6262171
+textcat/dev/pos\10211.txt		      -7043.73629961		-7143.77957265
+textcat/dev/pos\10837.txt		      -6239.22263099		-6323.96797121
+textcat/dev/pos\10862.txt		      -6013.02245263		-6047.72833519
+textcat/dev/pos\11053.txt		      -5642.88658633		-5659.52693077
+textcat/dev/pos\11236.txt		       -6111.4878077		-6137.03300447
+textcat/dev/pos\11834.txt		      -4650.05451993		-4708.25966632
+textcat/dev/pos\11948.txt		      -6500.71383466		-6530.1595377
+textcat/dev/pos\1198.txt		      -2915.18568231		-2913.492873
+textcat/dev/pos\12318.txt		      -3851.59131713		-3859.15707906
+textcat/dev/pos\12368.txt		      -5352.90996822		-5394.68488101
+textcat/dev/pos\12458.txt		      -7461.61552882		-7552.5298985
+textcat/dev/pos\12591.txt		      -9145.77754502		-9221.86078973
+textcat/dev/pos\12635.txt		      -5847.26891221		-5902.64281852
+textcat/dev/pos\12690.txt		      -7185.74136663		-7273.04024352
+textcat/dev/pos\12968.txt		      -9086.61057305		-9205.15002403
+textcat/dev/pos\13254.txt		      -2243.62462338		-2241.04178686
+textcat/dev/pos\13632.txt		      -5903.50494808		-5891.66363571
+textcat/dev/pos\13655.txt		      -4925.08621497		-4892.73388109
+textcat/dev/pos\13853.txt		      -6799.24419661		-6796.36763523
+textcat/dev/pos\14107.txt		      -6034.72520824		-6088.32978872
+textcat/dev/pos\14187.txt		      -4561.18626014		-4618.60384233
+textcat/dev/pos\14290.txt		      -7964.58362172		-7969.98152845
+textcat/dev/pos\14324.txt		      -10761.4489122		-10839.4342018
+textcat/dev/pos\14689.txt		      -4247.63419852		-4239.93413585
+textcat/dev/pos\14903.txt		       -5956.5108577		-5965.99748358
+textcat/dev/pos\15544.txt		       -2590.7227597		-2608.68037262
+textcat/dev/pos\15569.txt		      -3275.74242326		-3301.26675416
+textcat/dev/pos\15694.txt		       -5610.5714497		-5577.53768458
+textcat/dev/pos\15729.txt		      -4495.93203093		-4518.73252232
+textcat/dev/pos\15958.txt		      -3487.77416599		-3510.833784
+textcat/dev/pos\16014.txt		      -3584.20446834		-3614.86400274
+textcat/dev/pos\16071.txt		      -7240.21686732		-7303.77199204
+textcat/dev/pos\16321.txt		      -4228.38740232		-4249.44949286
+textcat/dev/pos\16348.txt		      -6852.93262956		-6870.59400191
+textcat/dev/pos\16466.txt		      -3086.83165547		-3086.83168161
+textcat/dev/pos\16661.txt		        -3155.365381		-3146.78664738
+textcat/dev/pos\17576.txt		      -4674.78518771		-4717.37237643
+textcat/dev/pos\17740.txt		      -5172.43894223		-5161.03629078
+textcat/dev/pos\17924.txt		      -8437.15926858		-8453.26390522
+textcat/dev/pos\18177.txt		       -2885.0936327		-2868.16451233
+textcat/dev/pos\18331.txt		      -4241.97302893		-4243.51187791
+textcat/dev/pos\18636.txt		      -7180.51658511		-7213.06384611
+textcat/dev/pos\18819.txt		      -7112.54574121		-7100.57652144
+textcat/dev/pos\18975.txt		      -1969.67241326		-1978.04771806
+textcat/dev/pos\19159.txt		      -1841.93357749		-1836.86670783
+textcat/dev/pos\1941.txt		      -1822.07768529		-1827.93728513
+textcat/dev/pos\19601.txt		       -6140.7220614		-6178.40137218
+textcat/dev/pos\19831.txt		       -4956.6658944		-4945.05027799
+textcat/dev/pos\20049.txt		      -5211.60013077		-5278.14899462
+textcat/dev/pos\20289.txt		      -4126.24513202		-4153.93474732
+textcat/dev/pos\20469.txt		      -4310.25353522		-4335.98181457
+textcat/dev/pos\20661.txt		       -4537.6186546		-4561.77136906
+textcat/dev/pos\2068.txt		      -3908.67910663		-3899.30067042
+textcat/dev/pos\21022.txt		      -7563.09724626		-7576.05914229
+textcat/dev/pos\21386.txt		      -5653.12883805		-5661.21289328
+textcat/dev/pos\21430.txt		      -5593.32387197		-5568.46913801
+textcat/dev/pos\21467.txt		      -6257.61072102		-6267.37080488
+textcat/dev/pos\21740.txt		      -9816.73556338		-9819.69819804
+textcat/dev/pos\22195.txt		       -5606.4870114		-5628.51746
+textcat/dev/pos\22456.txt		      -5596.44392706		-5599.19678481
+textcat/dev/pos\22892.txt		      -3621.83541171		-3655.60449609
+textcat/dev/pos\23275.txt		      -5160.24023598		-5183.96879388
+textcat/dev/pos\23611.txt		      -6822.53494018		-6847.27034743
+textcat/dev/pos\24435.txt		      -6229.61758845		-6322.08530158
+textcat/dev/pos\24728.txt		      -3589.32001469		-3598.44565632
+textcat/dev/pos\24888.txt		      -5043.63475654		-5021.50069658
+textcat/dev/pos\25228.txt		      -8068.88004665		-8102.02543212
+textcat/dev/pos\26269.txt		      -10880.8994492		-10831.5310144
+textcat/dev/pos\27325.txt		      -7111.93195498		-7203.67237575
+textcat/dev/pos\27523.txt		      -4159.08702131		-4166.43044398
+textcat/dev/pos\27751.txt		      -3356.69550097		-3370.53346956
+textcat/dev/pos\28664.txt		      -7716.38432343		-7780.79850206
+textcat/dev/pos\2895.txt		      -5447.88988942		-5493.42781662
+textcat/dev/pos\29013.txt		        -6299.277622		-6300.41190181
+textcat/dev/pos\29233.txt		      -4884.46082519		-4871.43484277
+textcat/dev/pos\29274.txt		      -2559.47728386		-2574.06938163
+textcat/dev/pos\29364.txt		      -4689.18867819		-4706.63640235
+textcat/dev/pos\29497.txt		      -7509.13557171		-7503.91373083
+textcat/dev/pos\29691.txt		      -6717.26125645		-6781.42169813
+textcat/dev/pos\29800.txt		      -4280.12000315		-4321.56432732
+textcat/dev/pos\3416.txt		      -3441.95959262		-3488.01661572
+textcat/dev/pos\3967.txt		       -1663.5449825		-1656.25673632
+textcat/dev/pos\3977.txt		      -3596.89688486		-3606.61541234
+textcat/dev/pos\4041.txt		        -10489.07901		-10460.0233019
+textcat/dev/pos\5009.txt		      -7019.25967002		-7047.63965819
+textcat/dev/pos\5063.txt		      -1220.91778281		-1216.47228982
+textcat/dev/pos\5126.txt		      -6494.99703987		-6538.24734602
+textcat/dev/pos\5754.txt		      -6694.53449048		-6721.85148068
+textcat/dev/pos\5866.txt		      -4439.07669288		-4436.4921636
+textcat/dev/pos\6014.txt		      -5458.37835743		-5478.90294715
+textcat/dev/pos\6385.txt		      -4459.48668344		-4440.72018054
+textcat/dev/pos\6534.txt		      -3395.57332315		-3417.24637087
+textcat/dev/pos\7424.txt		      -4101.70673137		-4135.74893043
+textcat/dev/pos\8207.txt		      -6512.74717989		-6606.10274765
+textcat/dev/pos\8838.txt		      -3095.04937279		-3156.36648824
+textcat/dev/pos\8842.txt		      -5219.62046671		-5222.35931776
+textcat/dev/pos\9364.txt		      -9453.43450038		-9442.59503959
+textcat/dev/pos\9390.txt		      -2314.90766585		-2300.1504307
+Below is the segregated list of Positive and Negative files 
+
+Positive Files with Count ->73
+textcat/dev/pos\10036.txt
+textcat/dev/pos\10211.txt
+textcat/dev/pos\10837.txt
+textcat/dev/pos\10862.txt
+textcat/dev/pos\11053.txt
+textcat/dev/pos\11236.txt
+textcat/dev/pos\11834.txt
+textcat/dev/pos\11948.txt
+textcat/dev/pos\12318.txt
+textcat/dev/pos\12368.txt
+textcat/dev/pos\12458.txt
+textcat/dev/pos\12591.txt
+textcat/dev/pos\12635.txt
+textcat/dev/pos\12690.txt
+textcat/dev/pos\12968.txt
+textcat/dev/pos\14107.txt
+textcat/dev/pos\14187.txt
+textcat/dev/pos\14290.txt
+textcat/dev/pos\14324.txt
+textcat/dev/pos\14903.txt
+textcat/dev/pos\15544.txt
+textcat/dev/pos\15569.txt
+textcat/dev/pos\15729.txt
+textcat/dev/pos\15958.txt
+textcat/dev/pos\16014.txt
+textcat/dev/pos\16071.txt
+textcat/dev/pos\16321.txt
+textcat/dev/pos\16348.txt
+textcat/dev/pos\16466.txt
+textcat/dev/pos\17576.txt
+textcat/dev/pos\17924.txt
+textcat/dev/pos\18331.txt
+textcat/dev/pos\18636.txt
+textcat/dev/pos\18975.txt
+textcat/dev/pos\1941.txt
+textcat/dev/pos\19601.txt
+textcat/dev/pos\20049.txt
+textcat/dev/pos\20289.txt
+textcat/dev/pos\20469.txt
+textcat/dev/pos\20661.txt
+textcat/dev/pos\21022.txt
+textcat/dev/pos\21386.txt
+textcat/dev/pos\21467.txt
+textcat/dev/pos\21740.txt
+textcat/dev/pos\22195.txt
+textcat/dev/pos\22456.txt
+textcat/dev/pos\22892.txt
+textcat/dev/pos\23275.txt
+textcat/dev/pos\23611.txt
+textcat/dev/pos\24435.txt
+textcat/dev/pos\24728.txt
+textcat/dev/pos\25228.txt
+textcat/dev/pos\27325.txt
+textcat/dev/pos\27523.txt
+textcat/dev/pos\27751.txt
+textcat/dev/pos\28664.txt
+textcat/dev/pos\2895.txt
+textcat/dev/pos\29013.txt
+textcat/dev/pos\29274.txt
+textcat/dev/pos\29364.txt
+textcat/dev/pos\29691.txt
+textcat/dev/pos\29800.txt
+textcat/dev/pos\3416.txt
+textcat/dev/pos\3977.txt
+textcat/dev/pos\5009.txt
+textcat/dev/pos\5126.txt
+textcat/dev/pos\5754.txt
+textcat/dev/pos\6014.txt
+textcat/dev/pos\6534.txt
+textcat/dev/pos\7424.txt
+textcat/dev/pos\8207.txt
+textcat/dev/pos\8838.txt
+textcat/dev/pos\8842.txt
+
+
+Negative Files with Count ->27
+textcat/dev/pos\10026.txt
+textcat/dev/pos\1198.txt
+textcat/dev/pos\13254.txt
+textcat/dev/pos\13632.txt
+textcat/dev/pos\13655.txt
+textcat/dev/pos\13853.txt
+textcat/dev/pos\14689.txt
+textcat/dev/pos\15694.txt
+textcat/dev/pos\16661.txt
+textcat/dev/pos\17740.txt
+textcat/dev/pos\18177.txt
+textcat/dev/pos\18819.txt
+textcat/dev/pos\19159.txt
+textcat/dev/pos\19831.txt
+textcat/dev/pos\2068.txt
+textcat/dev/pos\21430.txt
+textcat/dev/pos\24888.txt
+textcat/dev/pos\26269.txt
+textcat/dev/pos\29233.txt
+textcat/dev/pos\29497.txt
+textcat/dev/pos\3967.txt
+textcat/dev/pos\4041.txt
+textcat/dev/pos\5063.txt
+textcat/dev/pos\5866.txt
+textcat/dev/pos\6385.txt
+textcat/dev/pos\9364.txt
+textcat/dev/pos\9390.txt

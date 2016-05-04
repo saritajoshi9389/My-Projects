@@ -1,0 +1,411 @@
+List of Files in Test Directory with Pos and Neg Score based on Model File
+
+Total Test Files ->200
+
+FILENAME		                POS_SCORE		   NEG_SCORE
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10066.txt		      -7369.67141962		-7378.3324023
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10073.txt		      -10286.8258407		-10274.4905315
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10171.txt		      -7389.22732922		-7361.60592781
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10185.txt		      -1965.95257516		-1963.09233415
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10220.txt		      -1735.27901529		-1736.13174912
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10246.txt		      -3822.12660169		-3840.9677021
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10267.txt		      -1537.21488295		-1542.2399833
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10331.txt		      -5620.67418461		-5634.41384802
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10583.txt		      -3207.22901693		-3211.18897499
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10601.txt		      -3850.12185833		-3843.27528187
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10681.txt		      -4735.94873154		-4754.68789827
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10706.txt		      -3482.27140632		-3471.31180756
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10718.txt		      -4228.72231806		-4234.26049969
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10724.txt		      -2824.71186611		-2825.1495115
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10800.txt		      -3072.90413024		-3060.48183052
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10874.txt		      -3893.20521484		-3906.87686255
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10926.txt		      -3405.98539287		-3408.26312863
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10953.txt		      -2919.74071489		-2926.26377589
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10981.txt		      -5868.72920717		-5887.92737111
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11017.txt		      -1654.48913321		-1653.19095042
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11051.txt		      -2729.09975855		-2748.03164443
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11247.txt		      -2735.37646542		-2734.09720339
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11316.txt		      -1911.34767616		-1908.97908636
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11471.txt		       -5213.6329965		-5207.89898437
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11491.txt		      -2081.14117907		-2084.65177494
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11591.txt		      -6462.64375085		-6479.64169897
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11592.txt		      -2059.00380409		-2065.70791941
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11609.txt		      -4818.08972966		-4833.32407929
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11790.txt		      -4851.79270287		-4840.84091827
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11816.txt		      -5316.26501839		-5302.13804921
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11851.txt		      -4191.59645014		-4167.20981887
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11920.txt		      -8143.65194119		-8139.3747294
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11934.txt		      -1794.58166438		-1793.82250527
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11951.txt		      -4917.12073546		-4890.28826191
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11962.txt		      -9059.80266163		-9043.56179105
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12160.txt		      -5902.49299316		-5914.61730164
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12162.txt		      -4012.85833289		-4030.32808754
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12256.txt		      -6914.95715456		-6936.06012404
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12270.txt		      -3347.37364331		-3342.97082455
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12332.txt		      -5187.68266838		-5168.29342491
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12350.txt		      -3250.48397397		-3251.3495201
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12443.txt		      -1874.54742621		-1868.55759233
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12447.txt		      -6127.67274343		-6123.19818361
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12547.txt		      -7569.18757984		-7533.07519121
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12747.txt		      -2577.92292458		-2589.6754365
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12767.txt		      -3325.62458353		-3331.24919838
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12806.txt		       -5879.4969553		-5865.99259412
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13012.txt		      -3311.79797805		-3298.91005888
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13020.txt		      -3445.05294882		-3442.22026079
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13106.txt		      -6357.20279411		-6381.52281014
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13217.txt		      -4162.53358353		-4147.18287338
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13229.txt		      -5103.98863576		-5086.4617803
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13250.txt		      -3534.04950268		-3540.37270835
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13401.txt		      -3661.99872224		-3644.91783486
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13475.txt		      -6203.84255947		-6223.20657306
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13478.txt		      -8125.32297526		-8106.64117285
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13521.txt		      -5000.10141851		-5001.04025519
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13527.txt		      -7617.67539419		-7601.32196256
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13988.txt		      -5781.02584113		-5765.10062426
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14006.txt		      -2891.27751357		-2886.43805122
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14111.txt		      -3751.49861397		-3767.92536355
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14611.txt		      -2565.10996429		-2566.08375356
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14636.txt		      -3169.67016955		-3165.13695288
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14760.txt		      -1524.49731394		-1523.957391
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14854.txt		      -2867.15933555		-2856.35147675
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14949.txt		      -2755.09088409		-2742.40086871
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14989.txt		      -4188.38543338		-4202.78402861
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15042.txt		      -3760.24321532		-3757.04057198
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15092.txt		      -3269.57168787		-3266.06154691
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15467.txt		      -3986.01526666		-4013.25002419
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15691.txt		      -3455.19161481		-3447.39394216
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15824.txt		      -5032.34203923		-5028.47037576
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15954.txt		      -9802.98768348		-9829.7357032
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16009.txt		      -10145.6164186		-10144.0345937
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16218.txt		      -3399.04157455		-3381.27656223
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16380.txt		      -3285.49511293		-3300.9185339
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16679.txt		      -5235.35267345		-5228.28446985
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16908.txt		       -6000.5076986		-6010.93608593
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17034.txt		      -2860.62526449		-2843.36668223
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17059.txt		      -3200.47481045		-3209.19626304
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17082.txt		      -3807.22991591		-3807.50211787
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17297.txt		       -2638.9064203		-2631.95430259
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17473.txt		      -3544.31844714		-3524.64823129
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17563.txt		      -1952.55106425		-1962.53502655
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17705.txt		      -3833.57263561		-3837.87193838
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17779.txt		      -5981.15579936		-5976.00455798
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17822.txt		      -4626.76395971		-4637.51564492
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18155.txt		      -2933.85807378		-2930.64981414
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\1841.txt		      -1812.98913141		-1807.26073481
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18450.txt		      -4364.43432589		-4384.85796047
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18471.txt		      -9571.19806554		-9590.54217174
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18509.txt		      -4088.44565683		-4087.64753059
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18628.txt		      -3048.87522404		-3050.21467429
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18645.txt		      -3834.83377438		-3833.56354896
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18658.txt		      -11687.3740339		-11770.9480532
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18740.txt		      -5559.18758837		-5583.54910609
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18783.txt		      -2230.84734627		-2234.98183764
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18921.txt		      -5320.39064111		-5321.50514918
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18935.txt		      -1063.51347972		-1058.80415317
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18981.txt		       -1868.1967121		-1867.67735191
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19027.txt		      -3016.65622644		-3024.95679091
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19532.txt		       -5312.4242733		-5293.91818872
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19932.txt		      -4489.75878666		-4490.8941642
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19973.txt		      -4423.24326611		-4426.77789043
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20084.txt		      -4468.62707127		-4449.8960731
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20112.txt		      -5239.95598408		-5245.19477737
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20168.txt		      -5052.33532536		-5034.0497011
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20260.txt		      -3746.70936778		-3741.30550012
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2029.txt		      -3786.40776426		-3778.30507406
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20426.txt		      -5833.88233662		-5821.83581411
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20488.txt		      -6584.79600075		-6599.8414005
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20929.txt		      -5218.18249105		-5211.50782529
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21103.txt		      -3962.96339947		-3972.62173066
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21565.txt		      -5175.70469151		-5150.54217287
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21695.txt		      -5434.48313695		-5402.87746454
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21821.txt		      -4717.07116758		-4725.30713138
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21930.txt		      -3892.94347214		-3871.07928198
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22192.txt		      -4092.95342409		-4104.11585609
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22209.txt		      -2750.79790045		-2736.3640388
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22488.txt		      -2102.53143623		-2109.17609946
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22928.txt		      -4884.95344142		-4898.47767604
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22941.txt		      -3074.27712237		-3082.61429725
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23113.txt		      -8753.48201747		-8721.45646215
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23547.txt		      -3195.15996056		-3182.35165908
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23776.txt		      -5311.07221459		-5341.3424031
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23841.txt		      -9577.82262651		-9597.85395056
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24218.txt		      -4030.78200404		-4042.18457456
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24219.txt		      -3542.61004476		-3531.16737968
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24303.txt		      -2620.76853311		-2619.90734343
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24353.txt		      -2825.57017349		-2826.56658333
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24606.txt		      -2452.97274613		-2463.5702848
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24953.txt		      -8734.79332158		-8717.97281136
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24977.txt		      -5230.26469056		-5218.47143349
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25001.txt		      -5750.00085345		-5755.6115699
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25240.txt		      -4111.77240743		-4097.96896675
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25413.txt		      -5125.98706626		-5111.56290853
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25663.txt		      -1299.55208664		-1298.80736506
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25870.txt		      -3680.31401701		-3658.0396258
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26071.txt		       -3452.3530278		-3453.60264453
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26154.txt		      -2609.26123176		-2601.73281549
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26375.txt		      -4276.32115769		-4275.69243894
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26417.txt		      -3430.18932681		-3431.14338407
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26688.txt		      -4353.96615003		-4345.83914931
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26837.txt		      -4675.40879687		-4684.26521867
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2693.txt		      -3096.86713125		-3093.81502365
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\27080.txt		       -3562.7986308		-3556.64644829
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2856.txt		       -2706.5238344		-2696.54438449
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28671.txt		      -4312.34393967		-4310.38522279
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28742.txt		      -1894.73645175		-1893.86221817
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28832.txt		      -3953.80485673		-3961.79967364
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28877.txt		      -3639.76336621		-3635.18514595
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28965.txt		      -3699.08996527		-3696.31630794
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29007.txt		      -5696.98267402		-5700.40749229
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29114.txt		      -5198.81346376		-5218.74200391
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29127.txt		      -2520.79799516		-2521.50037835
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29252.txt		      -5304.28233536		-5307.81266294
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29397.txt		       -3232.1326009		-3223.75450571
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29423.txt		      -1857.16428242		-1849.0214847
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29484.txt		      -4014.10717221		-4003.22833937
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29540.txt		      -3500.81439569		-3508.73944329
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29565.txt		      -1713.03581832		-1709.73334964
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29622.txt		      -3378.40688489		-3384.43184783
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29715.txt		      -4003.47197179		-3999.6755577
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29737.txt		      -4199.95955569		-4206.50202908
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\3193.txt		        -4043.897903		-4040.13324928
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\3541.txt		      -4604.35719656		-4612.49208582
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\4776.txt		      -2933.37299124		-2920.62902288
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\4938.txt		      -2591.01494889		-2596.62150602
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5046.txt		       -6953.5945801		-6982.11173793
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5152.txt		      -2496.61207737		-2492.01583467
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5562.txt		      -6312.90299322		-6303.53695659
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5578.txt		      -2138.78718257		-2131.60738023
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5626.txt		      -3754.21489196		-3752.6573382
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5674.txt		      -3167.03988807		-3172.09525598
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5682.txt		      -3124.88791492		-3134.58471685
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5788.txt		      -7252.70196127		-7270.27757069
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5794.txt		      -3511.55963232		-3509.54648588
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5964.txt		      -4256.23321738		-4247.40502541
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6021.txt		      -5676.51422776		-5662.5125143
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6359.txt		      -3870.84908396		-3882.10232297
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6836.txt		      -5301.70934917		-5319.54994408
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6895.txt		      -4937.58884639		-4938.82341565
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6965.txt		      -1293.20681117		-1292.5858501
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7078.txt		      -3071.86584433		-3059.50081861
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7208.txt		      -4872.13162615		-4877.52824614
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7394.txt		       -4413.9522837		-4389.58288398
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8737.txt		      -3013.61426179		-3017.05151428
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8841.txt		       -2849.6123157		-2842.83297936
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8969.txt		      -4637.93852522		-4652.86614751
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9059.txt		      -2646.43124172		-2641.71485442
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9168.txt		      -7344.12657492		-7345.37095982
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9342.txt		      -3391.15334215		-3383.86700178
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9459.txt		      -2835.69281159		-2824.20215325
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9478.txt		       -7132.9978921		-7099.64247716
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9803.txt		      -3297.95069385		-3307.01042768
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9811.txt		      -3713.44020069		-3713.0608029
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9813.txt		      -3590.15228874		-3578.26683279
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9816.txt		      -3044.76756339		-3038.82727638
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9960.txt		       -3662.9166071		-3659.39485763
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9973.txt		      -2284.82226092		-2286.40864679
+Below is the segregated list of Positive and Negative files from Test Directory
+
+Positive Files with Count ->90
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10066.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10220.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10246.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10267.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10331.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10583.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10681.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10718.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10724.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10874.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10926.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10953.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10981.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11051.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11491.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11591.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11592.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11609.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12160.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12162.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12256.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12350.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12747.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12767.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13106.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13250.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13475.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13521.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14111.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14611.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14989.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15467.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15954.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16380.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16908.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17059.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17082.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17563.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17705.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17822.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18450.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18471.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18628.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18658.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18740.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18783.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18921.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19027.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19932.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19973.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20112.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20488.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21103.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21821.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22192.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22488.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22928.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22941.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23776.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23841.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24218.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24353.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24606.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25001.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26071.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26417.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26837.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28832.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29007.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29114.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29127.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29252.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29540.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29622.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29737.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\3541.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\4938.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5046.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5674.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5682.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5788.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6359.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6836.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6895.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7208.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8737.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8969.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9168.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9803.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9973.txt
+
+
+Negative Files with Count ->110
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10073.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10171.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10185.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10601.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10706.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\10800.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11017.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11247.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11316.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11471.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11790.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11816.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11851.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11920.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11934.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11951.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\11962.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12270.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12332.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12443.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12447.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12547.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\12806.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13012.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13020.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13217.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13229.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13401.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13478.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13527.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\13988.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14006.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14636.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14760.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14854.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\14949.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15042.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15092.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15691.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\15824.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16009.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16218.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\16679.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17034.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17297.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17473.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\17779.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18155.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\1841.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18509.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18645.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18935.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\18981.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\19532.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20084.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20168.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20260.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2029.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20426.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\20929.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21565.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21695.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\21930.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\22209.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23113.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\23547.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24219.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24303.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24953.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\24977.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25240.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25413.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25663.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\25870.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26154.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26375.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\26688.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2693.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\27080.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\2856.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28671.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28742.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28877.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\28965.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29397.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29423.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29484.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29565.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\29715.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\3193.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\4776.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5152.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5562.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5578.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5626.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5794.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\5964.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6021.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\6965.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7078.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\7394.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\8841.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9059.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9342.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9459.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9478.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9811.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9813.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9816.txt
+C:/Users/sarit/PycharmProjects/IR/Assignment6/textcat/test\9960.txt
