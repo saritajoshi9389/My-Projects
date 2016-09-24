@@ -4,6 +4,3 @@
 # Search Engine Implementation
 
 
-My Code
-# BigData
-
